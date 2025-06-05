@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmGWEZV7zySwMUlp727/SXLyasekljuZHyZeFifrX2rLnTwcO2FzoZeRCDj7ViWZKpB3iYqmGL8uMGqTzwreUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo-pc\\source\\repos\\Odev6\\Odev6\\Odev6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo-pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
